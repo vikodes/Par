@@ -1,1 +1,1 @@
-web: Par start: prod 
+web: yarn start: prod 
